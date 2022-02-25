@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the two universities an epistle together with a prediction concerning the French, translated out of Callimachvs : who is by St. Paul said to be a prophet, and that his testimony is true I Titus, ch. I., v. 12, 13.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69722</idno>
+            <idno type="STC">Wing C302</idno>
+            <idno type="STC">Wing T1751</idno>
+            <idno type="STC">ESTC R10997</idno>
+            <idno type="EEBO-CITATION">11821512</idno>
+            <idno type="OCLC">ocm 11821512</idno>
+            <idno type="VID">49585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 553:15, 840:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the two universities an epistle together with a prediction concerning the French, translated out of Callimachvs : who is by St. Paul said to be a prophet, and that his testimony is true I Titus, ch. I., v. 12, 13.</title>
+                  <author>Callimachus. Delos. English. Selections.</author>
+               </titleStmt>
+               <extent>[2], 7, 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"In Callimachus, the hymn to Delos, vers. 163"--p. 1.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49585:1"/>
+            <!-- PDF PAGE 67 -->
+            <pb facs="tcp:49585:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>TO THE Two Univerſities, AN EPISTLE.</p>
+            <p>Together with a PREDICTION Concerning the FRENCH; Tranſlated out of <hi>CALLIMACH<g ref="char:V">Ʋ</g>S.</hi> Who is by St. <hi>Paul</hi> ſaid to be a Prophet, and that his Teſtimony is true, 1 <hi>Titus,</hi> ch. 1. v. 12, 13.</p>
+            <q>
+               <l>—Vos exemplaria Graeca</l>
+               <l>Nocturna verſat<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Manu verſate diurna.</l> 
+               <bibl>Horace.</bibl>
+            </q>
+            <q>
+               <l>Et totum ſpirent praecordia Phaebum.</l> 
+               <bibl>Claudian.</bibl>
+            </q>
+            <q>
+               <p>—ut potius furentis animi vaticinatio appareat, quam religioſae orationis ſub teſtibus fides.</p> 
+               <bibl>Petron.</bibl>
+            </q>
+            <p>
+               <hi>Licenſed,</hi> Sept. 12. 1690.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-lane,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="epistolary_poem">
+            <pb facs="tcp:49585:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:49585:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <head>TO THE Two Univerſities, AN EPISTLE.</head>
+            <lg>
+               <l>JOY all-afloat, and now the Tide ſo high;</l>
+               <l>Yet <hi>Cam,</hi> and <hi>Ouze,</hi> the Muſes Springs, are dry.</l>
+               <l>Loſt is the Vein, the celebrated Dew,</l>
+               <l>Whence Lawrel, and ſo goodly Garlands grew.</l>
+               <l>Ye, the two Lights; ye, <hi>Albion</hi>'s ſovereign Beams,</l>
+               <l>Break from the Cloud, and play along the Streams.</l>
+               <l>Shou'd any dry <hi>Dilemma</hi> ſtrain your thought,</l>
+               <l>One, at the door, attends your <hi>Gordian</hi> knot.</l>
+               <l>If Friends, your Tributary-Hymn reherſe;</l>
+               <l>If Foes, then pay your Contribution-Verſe.</l>
+               <l>Birds feel the Genial Vertue of the Spring,</l>
+               <l>Their Tranſport ſhew, nor need be bid to Sing.</l>
+               <l>You Orders wait; condemn'd to write in Chains,</l>
+               <l>And row, as in a Gally, with your Pens.</l>
+               <l>King <hi>WILLIAM</hi> wou'd not reliſh Victory,</l>
+               <l>If you, in Mood and Figure, prove not free.</l>
+               <l>
+                  <pb n="2" facs="tcp:49585:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 69 -->
+Yet free you tiff up <hi>Celia</hi>'s dangling Hair;</l>
+               <l>Make <hi>Cloe</hi>'s Eyes, each, twinkle to a Star;</l>
+               <l>You point an Epigram; you trill a Song;</l>
+               <l>Laſh with Lampoon, or Satyr's harder Thong.</l>
+               <l>When God-like Deeds, and loudeſt Wonders call,</l>
+               <l>Ye droop, ye ſink, no fire, no ſpark at all.</l>
+               <l>Then you, dead Founders, and Antiquity,</l>
+               <l>(With lawleſs, ſenſleſs Priviledges) vye:</l>
+               <l>And, in the Wild-Gooſe-chace ſo blind are run,</l>
+               <l>That, at Mid-day, you hardly ſee the Sun.</l>
+               <l>Some <hi>C— Gorgon</hi> ſtuns your mind,</l>
+               <l>Or ſeven-fold <hi>Hydra</hi> of the M— kind;</l>
+               <l>Or Snake your Blood, and viler Serpents freez,</l>
+               <l>That roll, and loll, and hiſs from hollow trees.</l>
+               <l>This ſullen, double, wayward, haggard Air,</l>
+               <l>Looks as the Weather were not inly fair.</l>
+               <l>I wou'd not ſtrain Poetick Faith, but hope</l>
+               <l>We may have better Engliſh from the Pope.</l>
+               <l>O Chriſt, how others, that pretend to Save,</l>
+               <l>Together link Religion and a Slave!</l>
+               <l>Nay, Proteſtants (but be it ſaid no more)</l>
+               <l>Row'd the <hi>French</hi> Galleys to our amaz'd ſhore,</l>
+               <l>With wooden Shooes, to clamp in ev'ry Town,</l>
+               <l>And <hi>Iriſh</hi> Frogs, to croak about the Throne.</l>
+               <l>When <hi>Ganges,</hi> or the <hi>Granic,</hi> ye rehearſe,</l>
+               <l>The <hi>Indian</hi> King, or <hi>Perſian</hi> Monarchs Wars,</l>
+               <l>
+                  <pb n="3" facs="tcp:49585:3"/>
+                  <!-- PDF PAGE 69 -->
+There, rambling <hi>Bacchus,</hi> double dy'd in Blood;</l>
+               <l>Here, <hi>Alexander</hi> flouncing thro' the Flood:</l>
+               <l>When fir'd with theſe; your Raptures, and your Wine,</l>
+               <l>Might ye not dip a little at the <hi>Boyn?</hi>
+               </l>
+               <l>Where (not on your Horſe-Legend to Entrench)</l>
+               <l>Now quags a Bog with <hi>Tory</hi>-blood, and <hi>French.</hi>
+               </l>
+               <l>Ah, had juſt Heaven not warded off the Shot,</l>
+               <l>Even you had cry'd, The Gods were in the Plot.</l>
+               <l>In vain it roul'd, Heavens did their Juſtice clear,</l>
+               <l>Put to their hand, nor durſt be Paſſive there.</l>
+               <l>Man is not, in an inſtant, to create,</l>
+               <l>But, one by one, turn o're the Leaves of Fate:</l>
+               <l>Yet <hi>WILLIAM</hi>'s courſe ſo ſwift, old Fate perplext,</l>
+               <l>To turn, and find what is to follow next:</l>
+               <l>And Nature griev'd, as of all Name bereft,</l>
+               <l>Shou'd nothing be to Second Cauſes left.</l>
+               <l>The Power Divine, that breath'd on Nature's face,</l>
+               <l>Let Time (ſix days) the ſeveral Features trace.</l>
+               <l>Think not three Crowns confine his generous care;</l>
+               <l>It beams around, and moves in every Sphere.</l>
+               <l>See, with his Cauſe, with the ſame Spirit warm,</l>
+               <l>His <hi>Theſeus,</hi> and confederate Heroes arm;</l>
+               <l>With pious Arms, thro' <hi>France,</hi> to cut their way;</l>
+               <l>
+                  <hi>France,</hi> now the Den, for every Beaſt of Prey.</l>
+               <l>'Tis He that bids the <hi>German</hi> Eagle fly</l>
+               <l>Above the Moon, that guilds the <hi>Turkiſh</hi> Sky.</l>
+               <l>
+                  <pb n="4" facs="tcp:49585:4"/>
+                  <!-- PDF PAGE 70 -->
+His Banners on the <hi>Alpin</hi> Mountains play.</l>
+               <l>And cheer the Vales, uncuſtom'd to the day.</l>
+               <l>His Power thro' Rocks, by <hi>Hercules</hi> renown'd,</l>
+               <l>And <hi>Hannibal,</hi> a readier Paſſage found.</l>
+               <l>Eternal Froſt has there his Influence ſelt;</l>
+               <l>And, by his Rays, the harder <hi>Switzers</hi> melt.</l>
+               <l>Where ſhall I touch? the <hi>Indies</hi> ſtill behind,</l>
+               <l>And t'other World! O King of Human-kind!</l>
+               <l>Who might but half his Operations know,</l>
+               <l>Wou'd ſwear, the Sun has hardly more to do.</l>
+               <l>He ſhines, and forward carries on the day;</l>
+               <l>And finds no ſtop, no <hi>Tropick</hi> in the way.</l>
+               <l>The roſie Eaſt, the Weſt, and either Pole,</l>
+               <l>The Vigor feel of his extended Soul.</l>
+               <l>From Violence, and all Inhumanities,</l>
+               <l>He clears the Mountains, and He ſcowers the Seas.</l>
+               <l>Strife ſhall no more this giddy World divide;</l>
+               <l>Nor, on the Earth, that Hag, <hi>Oppreſſion,</hi> ride:</l>
+               <l>But <hi>Truth,</hi> all naked, at broad day appear,</l>
+               <l>And <hi>Vertue</hi> walk familiar every-where,</l>
+               <l>And <hi>Peace,</hi> in her ſoft hand, the Globe ſuſtain;</l>
+               <l>Our <hi>Hercules</hi> ſhall fix his Pillars then.</l>
+               <l>Then every Mouth confeſs the Heavens are juſt:</l>
+               <l>God never found a King before to truſt.</l>
+               <l>If Admiration honeſtly ſuſpend</l>
+               <l>Your Muſe; when muſt the Admiration end?</l>
+               <l>
+                  <pb n="5" facs="tcp:49585:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 70 -->
+New Matter ſprings; A boundleſs Torrent flows;</l>
+               <l>And each Sun, like it ſelf, a Wonder ſhows.</l>
+               <l>Puzzl'd is Fame, which foremoſt to relate,</l>
+               <l>King <hi>WILLIAM,</hi> or King <hi>WILLIAM</hi>'s glorious Mate.</l>
+               <l>The Orb of Things, and Nature's whole Affair,</l>
+               <l>Turn on the ſingle Pins of Peace and War.</l>
+               <l>Whil'ſt him fierce Arms, and horrid Pomp expreſs,</l>
+               <l>Her proper Province (one wou'd think) is Peace.</l>
+               <l>Peace, and the Shade, and Myrtles branching round,</l>
+               <l>As wiſhing thence her lovely Temples crown'd.</l>
+               <l>With Peace affected, yet to War ally'd,</l>
+               <l>She plays her part, in Wars rough buſineſs try'd.</l>
+               <l>She always, for the Militant, did hold;</l>
+               <l>And oft has heard how Angels fought of old,</l>
+               <l>When Heavens Militia, the Seraphick Hoſt,</l>
+               <l>Drove the black Squadrons from the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Coaſt,</l>
+               <l>God-like She ſtands, with an undaunted grace,</l>
+               <l>Tho' Terrors crack and flaſh around the place;</l>
+               <l>Nor is diſmay'd, howe'r the Chance is ſlurr'd;</l>
+               <l>Nor from her Sceptre frightned by the Sword.</l>
+               <l>That gentle ſweetneſs, in her Ayr, and Face,</l>
+               <l>Make not the Awe, the Sovereign Dread, the leſs.</l>
+               <l>The Majeſty with Beauty ſits ſecure;</l>
+               <l>Nor does the Sex effeminate her Pow'r.</l>
+               <l>Yet never Lawrel-wreath, nor Crown, till now,</l>
+               <l>Sat on ſo ſmooth, on ſo ſerene a Brow.</l>
+               <l>
+                  <pb n="6" facs="tcp:49585:5"/>
+                  <!-- PDF PAGE 71 -->
+The Graces ſmile to find their Myrtle-brayd,</l>
+               <l>Tip the Imperial Honours of her Head.</l>
+               <l>Thoſe ſofter Graces that her Glory joyn,</l>
+               <l>Sacred, ſay they? Oh, certainly Divine!</l>
+               <l>Her Vertue far the Rebel Legion breaks:</l>
+               <l>Beneath her Eyes unfaithful <hi>Neptune</hi> quakes.</l>
+               <l>So, on the Waves, Love's Queen no ſooner ſhone,</l>
+               <l>But all the Horrors of the Seas were gone.</l>
+               <l>What if her wary Fleet, for once, gave way,</l>
+               <l>When did ſhe build on either Wind or Sea?</l>
+            </lg>
+            <lg>
+               <l>Might <hi>Granta</hi> be excus'd in Piety;</l>
+               <l>So much a Swan, that if ſhe ſing, ſhe dye,</l>
+               <l>Yet <hi>Iſis</hi> need not ſtint her joyful Note,</l>
+               <l>That Siſter is not old enough to dote.</l>
+               <l>Tho' <hi>Greklade</hi> ſhe, and <hi>Grecian</hi> Honors cry;</l>
+               <l>The <hi>Grecian</hi> flights ſcarce match our Hiſtory.</l>
+               <l>Their long-train'd Heroins, (if we <hi>Homer</hi> truſt)</l>
+               <l>In days of yore, did raiſe but little duſt.</l>
+               <l>
+                  <hi>Penelope,</hi> her Husband turns his back,</l>
+               <l>She ſpins, and whines, and all is gone to wrack.</l>
+               <l>
+                  <hi>Andromache</hi> was great in Name, but all</l>
+               <l>Known of <hi>Andromache,</hi> is, ſhe was tall.</l>
+               <l>Search Heaven, let thither mount our Nobler Dream:</l>
+               <l>What is dull Turf, to our, no Mortal, Theme!</l>
+               <l>
+                  <pb n="7" facs="tcp:49585:5"/>
+                  <!-- PDF PAGE 71 -->
+That <hi>Jove,</hi> whom all the Gods their Chief confeſs,</l>
+               <l>His <hi>Juno</hi> with him, were not of-a-piece.</l>
+               <l>Whil'ſt Giants he, and brave Adventure ſeeks,</l>
+               <l>Her buſineſs was ſome mean ungodly Piques.</l>
+               <l>Theſe Gods, and Court of Heaven, but ſhew how high</l>
+               <l>The boldeſt Wit, and <hi>Greek</hi> Inventions fly;</l>
+               <l>But ne'r wou'd <hi>Bard,</hi> for <hi>Jove</hi>'s, and Heaven's high Queen,</l>
+               <l>Have <hi>Juno</hi> feign'd, had they our <hi>MARY</hi> ſeen.</l>
+               <l>We find their Fancy, and their Fables ſhort,</l>
+               <l>To draw, from thence, a Copy of the Court.</l>
+               <l>With us, when foreign Monſters call for Wars,</l>
+               <l>Tho' <hi>Schomberg</hi> gone, we ſtill might ſhew a <hi>Mars.</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> too might nobly fill his Sphere,</l>
+               <l>Wou'd ye the Muſes from your Cloyſters ſpare,</l>
+               <l>Think, when ye ſee it wave, in <hi>Dorſet</hi>'s hand,</l>
+               <l>If <hi>Mercury</hi> ſo well became the Wand;</l>
+               <l>Or did, in either World, ſo charming move,</l>
+               <l>To Men below, or the few Gods above.</l>
+            </lg>
+            <lg>
+               <l>Dark, by the Hedges, my ſhort Pen I wield;</l>
+               <l>To you is left, the wide, the glorious Field;</l>
+               <l>To tempt you more; no Goddeſs toucht, or blown;</l>
+               <l>
+                  <hi>Pallas</hi> is yours, and <hi>Venus</hi> all your own.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:49585:6"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="1" facs="tcp:49585:6"/>
+            <!-- PDF PAGE 72 -->
+            <head>A PROPHECY Concerning the FRENCH, Tranſlated out of <hi>CALLIMACH<g ref="char:V">Ʋ</g>S.</hi>
+            </head>
+            <head type="sub">
+               <bibl>In <hi>Callimachus,</hi> the Hymn to <hi>Delos,</hi> Verſ. 163.</bibl>
+            </head>
+            <sp>
+               <speaker>
+                  <hi>APOLLO</hi> Speaks.</speaker>
+               <lg>
+                  <l>AMongſt the Iſlands, plainly, I prefer</l>
+                  <l>
+                     <note n="*" place="margin">
+                        <hi>i. e.</hi> Albion.</note> 
+                     <hi>Ogygia;</hi> and cou'd wiſh my Altars there:</l>
+                  <l>I like the Country, and I love the Men;</l>
+                  <l>But Fate does
+<note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> other Honors there ordain;</l>
+                  <l>A Prince is there, the beſt of Kings deſign'd;</l>
+                  <l>And, ſure, the Chief of all the
+<note n="¶" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> Savior kind.</l>
+                  <l>So mild his Power, ſo pure the Vertue ſhown,</l>
+                  <l>As if He wore a
+<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> Miter, not a Crown.</l>
+                  <l>Around the various World, however far</l>
+                  <l>The Ocean flows, or <hi>Phebus</hi> drives his Car,</l>
+                  <l>
+                     <pb n="2" facs="tcp:49585:7"/>
+                     <!-- PDF PAGE 73 -->
+All own his Sway; and come with ſupple Knee,</l>
+                  <l>Who willing, or are worthy to be Free.</l>
+                  <l>His Fathers ways, to Juſtice always true,</l>
+                  <l>He well ſhall know, and ſhall as well purſue.</l>
+                  <l>The time will come, a common Cauſe ſhall joyn</l>
+                  <l>Our Arms; My Cauſe is his, and his is mine:</l>
+                  <l>When ſhall ſo high a
+<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> Giants Frenzy run,</l>
+                  <l>In ſpite of me, to boaſt himſelf the Sun.</l>
+                  <l>His wanton Brood ſhall Earth and Heaven aſſail,</l>
+                  <l>As fierce as Thunder, and as thick as Hail;</l>
+                  <l>Not Locuſts, with their ſwarms, that cloud the day,</l>
+                  <l>Nor <hi>Lybian</hi> Sands, in number more than they.</l>
+                  <l>Wild Deſolation ranges all about,</l>
+                  <l>Where-ever ſtalks that Hundred-handed Rout.</l>
+                  <l>The deſart Field, the ravag'd Country groans,</l>
+                  <l>Whilſt Fire and Rage lay waſt the neighboring Towns.</l>
+                  <l>No Monument, no Tower, no Temple ſpar'd,</l>
+                  <l>By <hi>Dorian,</hi> or <hi>Corinthian</hi> cunning rear'd.</l>
+                  <l>Each Holy Place profan'd, no Corner clean,</l>
+                  <l>For bloody Targets, Halbards, Sword, or Skein.</l>
+                  <l>Here a rich Dome they gut, there Myſteries</l>
+                  <l>Tread under foot; and never bend their Knees.</l>
+                  <l>Our Oracles, the Sacred Leaves they tear,</l>
+                  <l>With impious hands, and toſs 'um in the air.</l>
+                  <l>
+                     <pb n="3" facs="tcp:49585:7"/>
+                     <!-- PDF PAGE 73 -->
+Even my own Shrines they break, my Altars ſap,</l>
+                  <l>And, after this, ſhall one
+<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>Galathian</hi> ſcape?</l>
+                  <l>Nay, their own Blood the Monſters Luſt ſhall quench:</l>
+                  <l>Call them <hi>Galathians, Gauls,</hi> or
+<note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>Celts,</hi> or <hi>French.</hi>
+                  </l>
+                  <l>Under the Spoils, their barbarous outrage got,</l>
+                  <l>And heaps of Ruins, that they made, they rot.</l>
+                  <l>When Time ſhall bring this growing truth to light,</l>
+                  <l>Then ſay, O King, <hi>Apollo</hi> levell'd right.</l>
+                  <l>Whil'ſt there's a Dragon, or a Giant near,</l>
+                  <l>My Bow ſhall twang, in conſort, with thy Spear.</l>
+                  <l>Let my wing'd Vengeance the dire
+<note n="¶" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> Delphyn ſhoot;</l>
+                  <l>With
+<note n="*⁎*" place="bottom">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> eaſtern Steel ſtrike thou both Branch and Root.</l>
+                  <l>So our joynt Arms quite off the Earth ſhall chace,</l>
+                  <l>That Vain, that Godleſs, that Unhumane Race.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
